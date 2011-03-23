@@ -1,0 +1,6 @@
+SERVER_HOST = localhost
+HTTP_PORT = 8080
+SWING_PORT = 8081
+DB_PATH = db/SimpleFacebook.s3db
+LOGS_PATH = logs/
+

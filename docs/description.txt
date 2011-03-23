@@ -1,0 +1,13 @@
+SimpleFacebook
+
+Yet another social website where users can see and manage their social network. The application offer the possibility to manage the user list of friends, witch are only considered as such after both parties confirm the existence of the relationship. Users can search for other users and browse the user profile (each user can configure the permissions details about what is seen in the profile). The search is made considering that users usually search for people in the nearby social graph. 
+
+Each user has also a Wall where items are shown. This items can be of various types (text, video, image, sound) and are published by friends. User can see the public Wall ordered by time (called the timeline) or the user own Wall (only items published by itself, or about him by others). Items can be considered 'liked' by users, commented and shared (published in its own timeline).
+
+There's also a concept called "group" that users can create when they want to and name it like they want. A group doesn't have some info like the user (age, location, etc) but does have friends and a wall where everyone can post content.
+
+The Wall has some filtering capabilities like ignoring a particular user, a group or even a particular item.
+
+There a notification system that sends the user an email every-time new content related to him shows up. 
+
+Users can also send async messages to each other (ignoring the fact that they might not be friends).

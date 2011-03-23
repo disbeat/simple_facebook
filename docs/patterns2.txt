@@ -1,0 +1,25 @@
+
+--- Implemented by: Fabio ---
+
+- Builder
+- Composite
+- Visitor
+- Facade
+- Adapter
+- Iterator
+- Strategy
+
+--- Implemented by: Marco ---
+
+- Singleton
+- Flyweight
+- Lazy Initialization
+- Command
+- Template 
+- Bridge
+- State
+
+
+--- Maybe/Perhaps/Indeed/NotReally ---
+
+- MVC

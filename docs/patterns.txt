@@ -1,0 +1,22 @@
+-- Documentado --
+Composite 
+Builder
+Abstract Factory
+Singleton
+Flyweight
+Facade
+Proxy
+Iterator
+Interpretor
+Strategy
+Lazy Initialization
+
+
+-- Não Documentado --
+Decorator
+MVC
+*State
+Command
+Thread Pool
+Observer
+*Adapter

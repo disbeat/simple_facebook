@@ -1,0 +1,42 @@
+Estrutura:
+==========
+
+
+- Intro
+
+- Descrição Funcional
+
+- Descrição Estrutural
+	* Arquitectura cliente-servidor
+		- Servidor HTTP (para Html)
+		- Cliente HTML (browser - para o prof, é melhor explicar)
+		- Servidor Swing
+		- Cliente Swing
+	
+	* Pattern Arquitectural dos servidores(MVC)
+	
+- Design do sistema
+	* Diagrama de Classes (overview geral)
+	
+	* Design Patterns
+		Criacionais:
+			- Builder
+			- Lazy Initialization (not in GOF -> referir  Fowler, Martin (2002). Patterns of Enterprise Application Architecture. Addison-Wesley. ISBN 978-0321127426)
+			- Singleton
+		
+		Estruturais:
+			- Adapter
+			- Bridge
+			- Composite
+			- Facade
+			- Flyweight
+			
+		Comportamentais:
+			- Command
+			- Iterator
+			- State
+			- Strategy
+			- Template 
+			- Visitor
+		
+- Conclusão
